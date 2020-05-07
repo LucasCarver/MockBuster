@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.pdb
